@@ -9,6 +9,16 @@ Durante o projeto, foram realizadas a importação de dados a partir de um arqui
 
 O projeto evidencia como notebooks do Azure Databricks permitem estruturar, organizar e acompanhar a evolução do código durante a análise de dados, servindo como uma introdução prática à plataforma no contexto de análise e engenharia de dados em nuvem.
 
+## 🧰 Ferramentas Utilizadas
+
+- **Azure Databricks** – Plataforma utilizada para criação e execução de notebooks em nuvem  
+- **Apache Spark** – Engine de processamento distribuído para análise de dados  
+- **Spark SQL** – Linguagem utilizada para consultas e exploração dos dados  
+- **PySpark** – API Python do Apache Spark para manipulação de DataFrames  
+- **Databricks Assistant** – Recurso de inteligência artificial integrado ao Databricks para auxílio na escrita e correção de código  
+- **Microsoft Learn** – Fonte do exercício prático que serviu de base para o desenvolvimento do projeto  
+- **GitHub** – Repositório utilizado para organização e compartilhamento do projeto
+
 ## 📊 Etapas do Projeto
 
 ### 1️⃣ Importação de Dados
@@ -40,12 +50,12 @@ O projeto evidencia como notebooks do Azure Databricks permitem estruturar, orga
 ![05](https://github.com/user-attachments/assets/c981e27f-79aa-4d98-b071-e59dde22151e)
 
 
-## 🧰 Ferramentas Utilizadas
+  ## 📌 Conclusão
 
-- **Azure Databricks** – Plataforma utilizada para criação e execução de notebooks em nuvem  
-- **Apache Spark** – Engine de processamento distribuído para análise de dados  
-- **Spark SQL** – Linguagem utilizada para consultas e exploração dos dados  
-- **PySpark** – API Python do Apache Spark para manipulação de DataFrames  
-- **Databricks Assistant** – Recurso de inteligência artificial integrado ao Databricks para auxílio na escrita e correção de código  
-- **Microsoft Learn** – Fonte do exercício prático que serviu de base para o desenvolvimento do projeto  
-- **GitHub** – Repositório utilizado para organização e compartilhamento do projeto
+Este projeto consolidou conceitos fundamentais do **Azure Databricks** e mostrou na prática como:
+- Explorar dados com SQL e Spark
+- Utilizar DataFrames Spark
+- Criar visualizações
+- Usar assistente de IA integrado para apoio no desenvolvimento
+
+Esse trabalho fortalece a compreensão de análise de dados em ambiente de nuvem e serve como base para projetos mais avançados.
