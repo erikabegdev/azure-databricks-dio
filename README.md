@@ -59,3 +59,7 @@ Este projeto consolidou conceitos fundamentais do **Azure Databricks** e mostrou
 - Usar assistente de IA integrado para apoio no desenvolvimento
 
 Esse trabalho fortalece a compreensão de análise de dados em ambiente de nuvem e serve como base para projetos mais avançados.
+
+## 🔗 Referências
+
+- Microsoft Learn – *Explore Azure Databricks*
